@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `yarn`
 
-Run his command to install the npm packages before start to run the application
+Run this command to install the npm packages before start to run the application.
 
 ### `yarn start`
 
