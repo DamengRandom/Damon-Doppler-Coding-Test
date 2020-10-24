@@ -1,0 +1,31 @@
+/* General CSS */
+
+.App {
+  text-align: center;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.velocity-slider {
+  margin-left: 20px;
+}
+
+/* Responsive Display */
+
+@media only screen and (max-width: 481px) {
+  .flex-center {
+    display: block;
+  }
+
+  .velocity-slider {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
+  .message {
+    padding: 0 20px;
+  }
+}
