@@ -4,6 +4,10 @@ This project is aiming to create a Doppler Effect Simulator, when user scrolls t
 
 In the project directory, you can run:
 
+### `yarn`
+
+Run his command to install the npm packages before start to run the application
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
