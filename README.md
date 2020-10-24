@@ -60,10 +60,10 @@ This project was built by `create-react-app` library.
 
 ## References (Findings) During Development
 
-https://stackoverflow.com/questions/56415924/convert-javascript-hex-rgb-color-to-wavelength-and-vice-versa
-https://academo.org/demos/wavelength-to-colour-relationship/
-https://codepen.io/kkmd/pen/vzpdPx
-https://codepen.io/amyth91/pen/cFjsh
-https://css-tricks.com/almanac/properties/f/filter/
-https://css-tricks.com/value-bubbles-for-range-inputs/
-https://stackoverflow.com/questions/21052921/javascript-for-valid-positive-and-negative-numbers-with-one-or-no-dots
+- https://stackoverflow.com/questions/56415924/convert-javascript-hex-rgb-color-to-wavelength-and-vice-versa
+- https://academo.org/demos/wavelength-to-colour-relationship/
+- https://codepen.io/kkmd/pen/vzpdPx
+- https://codepen.io/amyth91/pen/cFjsh
+- https://css-tricks.com/almanac/properties/f/filter/
+- https://css-tricks.com/value-bubbles-for-range-inputs/
+- https://stackoverflow.com/questions/21052921/javascript-for-valid-positive-and-negative-numbers-with-one-or-no-dots
